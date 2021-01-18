@@ -12,6 +12,8 @@ http://www.foresight-platform.eu
 ## iKnowFutures
 http://wiwe.iknowfutures.org
 
+# References
+
 ## OECD Future Thinking
 https://www.oecd.org/site/schoolingfortomorrowknowledgebase/futuresthinking/
 
@@ -21,7 +23,27 @@ https://www.humanitarianfutures.org
 ## Foresight guide
 http://www.foresightguide.com
 
-# TOOLS
+# Firms and studios
+
+## Changeist
+https://changeist.com
+
+## Darkmatterlabs
+https://provocations.darkmatterlabs.org
+
+## Design Futures Initiative
+https://www.futures.design
+
+## Phase Change
+https://medium.com/phase-change
+
+## The Long Now foundation
+https://longnow.org
+
+## Structure and Narrative
+https://sjef.nu
+
+# Tools
 
 ## Instant Archetypes: A New Tarot For The New Normal - Superflux
 https://www.kickstarter.com/projects/2093788053/instant-archetypes-a-new-tarot-for-the-new-normal?ref=7pre4i&token=3873cdc7
