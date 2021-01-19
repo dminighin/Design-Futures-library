@@ -12,6 +12,10 @@ http://www.foresight-platform.eu
 ## iKnowFutures
 http://wiwe.iknowfutures.org
 
+## OECD-OPSI futures and foresight toolkit repository
+https://oecd-opsi.org/search-toolkits/?_sft_discipline-or-practice=futures-and-foresight&_sft_task-type=contextualisation-what-might-be
+
+
 # References
 
 ## OECD Future Thinking
