@@ -50,6 +50,9 @@ https://longnow.org
 ## Structure and Narrative
 https://sjef.nu
 
+## The sceptical futuryst
+https://futuryst.blogspot.com/
+
 # Tools
 
 ## Instant Archetypes: A New Tarot For The New Normal - Superflux
