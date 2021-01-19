@@ -41,7 +41,7 @@ Voros, J. (2001), Reframing Environmental Scanning: an Integral Approach. Foresi
 Wheelwright, V. (2009). Futures for Everyone. Journal of Futures Studies 13(4) p.91-104.\
 Wheelwright, V. (2005). Personal Futures: Foresight & Futures Studies for Individuals. Doctoral Dissertation, Metropolitan University, Leeds.\
 
-## TRENDS IN FORESIGHT
+## TRENDS IN FORESIGHT
 Amanatidou, E., et al. (2011). On concepts and methods in horizon scanning: Lessons from initiating policy dialogues on emergingissues. Science and Public Policy 39 (2012) pp. 208–221.\
 Dator, J., Trend Analysis versus Emerging Issues Analysis. July 2009. – Extrapolation, back casting as trend’ tools.\
 Hiltunen, E., (2008). The future sign and its three dimensions. Futures 40, 247-260.\
@@ -76,7 +76,7 @@ Wood, A.M., Moultrie, J. and Eckert, C. (2010). How do designers respond to chan
 Wood, A.M., Moultrie, J. and Eckert, C. (2008). Applying Trends to Design: A Theorethical Framework. International Design Conference – Design 2008, Croatia.\
 Zamenopoulos, T. &Alexiou, K. (2007). Towards an anticipatory view of design. Design Studies, 28(4) pp. 411–436.\
 
-## DESIGN PROCESS & THEORY
+## DESIGN PROCESS & THEORY
 Alexander, C. (1964). Notes on the Synthesis of Form. Harvard University Press, Cambridge, MA.\
 Binder, T., De Michelis, G., Ehn, P., Jacucci, G., Linde, P., Wagner, I. (2011). Design Things. MIT Press, Cambridge, MA.\
 Crafting the Future, 10th European Academy of Design Conference, April 17-19 2013, Gothenburg.\
