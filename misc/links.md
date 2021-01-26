@@ -53,6 +53,9 @@ https://sjef.nu
 ## The sceptical futuryst
 https://futuryst.blogspot.com/
 
+## The time travel agency
+https://personaxpersona.com
+
 # Tools
 
 ## Instant Archetypes: A New Tarot For The New Normal - Superflux
