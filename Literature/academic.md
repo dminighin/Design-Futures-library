@@ -7,7 +7,7 @@ Candy, S. (2010) The Futures of Everyday Life: Politics and the Design of Experi
 ### Ollenburg, Stefanie A.
 Ollenburg, S.A. (2019) A Futures-Design-Process Model for Participatory Futures. Journal of Futures Studies. [Online] 23 (4). Available from: doi:10.6531/JFS.201906_23(4).0006
 
-Ollenburg, S.A. (2018) Beyond Futures: Designing Futures by Educating Future Designers. World Futures Review. [Online] 10 (4), 279–293. Available from: doi:10.1177/1946756718790758 [Accessed: 18 January 2021]
+Ollenburg, S.A. (2018) Beyond Futures: Designing Futures by Educating Future Designers. World Futures Review. [Online] 10 (4), 279–293. Available from: doi:10.1177/1946756718790758
 
 ### Taylor, Damon
 Taylor, D. (2019) Design Futures. In: Anne Massey (ed.). A Companion to Contemporary Design since 1945. [Online]. Hoboken, NJ, USA, John Wiley & Sons, Inc. pp. 51–71. Available from: doi:10.1002/9781119112297.ch3
