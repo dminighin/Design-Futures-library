@@ -10,3 +10,7 @@ Candy, Stuart. “The Futures of Everyday Life: Politics and the Design of Exper
 ## Futures Thinking
 ### Voros, Joseph
 Voros, Joseph. “A Generic Foresight Process Framework.” Foresight 5, no. 3 (June 1, 2003): 10–21. https://doi.org/10.1108/14636680310698379.
+
+## Governance
+### Mager, Astrid & Katzenbach, Christian
+Mager, A., and C Katzenbach. ‘Future Imaginaries in the Making and Governing of Digital Technology: Multiple, Contested, Commodified’. New Media & Society forthcoming (2021): 12. https://doi.org/10.1177/1461444820929321.
