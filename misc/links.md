@@ -15,7 +15,6 @@ http://wiwe.iknowfutures.org
 ## OECD-OPSI futures and foresight toolkit repository
 https://oecd-opsi.org/search-toolkits/?_sft_discipline-or-practice=futures-and-foresight&_sft_task-type=contextualisation-what-might-be
 
-
 # References
 
 ## OECD Future Thinking
@@ -63,3 +62,12 @@ https://www.groupofhumans.com/futures/
 
 ## Instant Archetypes: A New Tarot For The New Normal - Superflux
 https://www.kickstarter.com/projects/2093788053/instant-archetypes-a-new-tarot-for-the-new-normal?ref=7pre4i&token=3873cdc7
+
+### Case studies & unsorted stuff
+
+## Uncertain Times Polimi
+https://www.uncertaintimes.polimi.it
+
+## Techonology foresight polimi
+https://www.foresight.polimi.it
+
