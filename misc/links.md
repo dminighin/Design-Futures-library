@@ -56,6 +56,9 @@ https://futuryst.blogspot.com/
 ## The time travel agency
 https://personaxpersona.com
 
+## Group of humans/futures
+https://www.groupofhumans.com/futures/
+
 # Tools
 
 ## Instant Archetypes: A New Tarot For The New Normal - Superflux
