@@ -1,3 +1,10 @@
+# from utsdesignindex.com/research
+
+## STEEP analysis
+A STEEP analysis is a tool used in design futuring to prompt discussion and flesh out various societal factors in our future scenario. This tool is often used by business or organisations to consider a variety of external forces beyond our personal experiences and value systems.
+
+# from trendhub.polimi.it
+
 ## ENVIRONMENTAL SCANNING
 Scanning is the ongoing, year-round process of looking for trends and events in the external environment that may have implications for the organization. (…) It may lead to discovery of issues that the analyst can proactively bring to the attention of the organization, or it may provide information that will later prove useful to a particular foresight activity.
 (Hines & Bishop, 2015)
@@ -57,3 +64,4 @@ Il trend book si riferisce invece più puntualmente a settori merceologici speci
 ## MINDMAPPING
 Mind mapping is a technique applied to brainstorming and other group discussion methods (…). It allows a group’s ideas to be charted in logical groupings fairly quickly, even when ideas are given in a non-sequential manner. This technique allows efficient brainstorming for ideas and at the same time creates a skeletal framework for later categorisation of the information generated.
 (EFP European Foresight Platform)
+
