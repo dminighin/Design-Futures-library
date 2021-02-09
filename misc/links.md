@@ -69,9 +69,9 @@ https://www.groupofhumans.com/futures/
 ## Uncertain Times Polimi
 https://www.uncertaintimes.polimi.it
 
-## Techonology foresight polimi
+## Technology foresight polimi
 https://www.foresight.polimi.it
 
-## A Glossary of Terms commonly used in Futures Studies Forward Thinkinh Platform/FAO
+## A Glossary of Terms commonly used in Futures Studies Forward Thinking Platform/FAO
 http://www.fao.org/docs/eims/upload/315951/Glossary%20of%20Terms.pdf
 
