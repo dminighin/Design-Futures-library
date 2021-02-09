@@ -6,9 +6,6 @@ https://www.oecd.org/site/schoolingfortomorrowknowledgebase/futuresthinking/
 ## Humanitarian Futures
 https://www.humanitarianfutures.org
 
-## Foresight guide
-http://www.foresightguide.com
-
 # Firms and studios
 
 ## Nefula
