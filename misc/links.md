@@ -31,6 +31,9 @@ http://www.foresightguide.com
 
 # Firms and studios
 
+## Nefula
+http://nefula.com/
+
 ## The Future Perfect Company
 https://www.thefutureperfectcompany.com
 
