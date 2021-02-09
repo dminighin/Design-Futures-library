@@ -7,3 +7,6 @@
 https://www.coursera.org/specializations/futures-thinking
 
 # Guides
+
+## Foresight guide
+http://www.foresightguide.com
