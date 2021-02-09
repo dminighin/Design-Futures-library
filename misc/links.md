@@ -15,7 +15,7 @@ http://wiwe.iknowfutures.org
 ## OECD-OPSI futures and foresight toolkit repository
 https://oecd-opsi.org/search-toolkits/?_sft_discipline-or-practice=futures-and-foresight&_sft_task-type=contextualisation-what-might-be
 
-## Futures Studies Resources - Lultz&Fung
+## Futures Studies Resources - Lutz&Fung
 https://www.notion.so/ff8a7941da2744e2ac45d778c0e9fbeb?v=8931ecfb4d574b72826dbf74c6367144
 
 # References
