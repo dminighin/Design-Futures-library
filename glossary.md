@@ -2,6 +2,8 @@
 ## A Glossary of Terms commonly used in Futures Studies Forward Thinking Platform/FAO
 http://www.fao.org/docs/eims/upload/315951/Glossary%20of%20Terms.pdf
 
+# glossary [needs review]
+
 ## Backcasting 
 Backcasting is a planning method that starts with defining a desirable future and then works backwards to identify policies and programs that will connect that specified future to the present. The fundamentals of the method were outlined by John B. Robinson from the University of Waterloo in 1990. The fundamental question of backcasting asks: "if we want to attain a certain goal, what actions must be taken to get there?" 
 
