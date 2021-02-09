@@ -3,10 +3,11 @@ Backcasting is a planning method that starts with defining a desirable future an
 
 ## Curious rituals 
 https://curiousrituals.wordpress.com 
-The Curious Ritual are the things which people and organizations are doing now, in our present, but for which we don’t have a shared, common and easy understanding yet. They may be large or small, disruptive or moderate, local or global, fast or slow. 
+"The Curious Ritual are the things which people and organizations are doing now, in our present, but for which we don’t have a shared, common and easy understanding yet. They may be large or small, disruptive or moderate, local or global, fast or slow." Source: nefula.com/methodology
 
 ## Diegetic prototyping 
 Design objects to shape and define the surrounding scenario and, consequently, its characterising elements. It can be used the other way around as well: defining a scenario using (or designing) its diegetic elements, thus representing a future where the design object (or objective) will be conceived and developed.
+
 
 # from trendhub.polimi.it
 
